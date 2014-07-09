@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A1534A70-14AF-4333-BEDD-F57CE3F6605C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SpeechSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2ECB30B5-12B0-4BDE-B221-9EB329DD1325</key>
+		<string>https://github.com/dale-moore/iOSTextToSpeech.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SampleProject/SpeachTest/SpeechSample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2ECB30B5-12B0-4BDE-B221-9EB329DD1325</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dale-moore/iOSTextToSpeech.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2ECB30B5-12B0-4BDE-B221-9EB329DD1325</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2ECB30B5-12B0-4BDE-B221-9EB329DD1325</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOSTextToSpeech</string>
+		</dict>
+	</array>
+</dict>
+</plist>
